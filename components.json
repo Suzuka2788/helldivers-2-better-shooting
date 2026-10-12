@@ -1,0 +1,17 @@
+[
+  {
+    "component": "Charge",
+    "source": "Charge-Auto-Cycle/preview7-toggles/Tongz-Charge-Auto-Cycle-v0.1.6-preview7-toggles.zip",
+    "sha256": "78cdd5df01b33e65838287c7b3b7f92d69c30e63589e6ecb77bcedca8a94f312"
+  },
+  {
+    "component": "Burst",
+    "source": "Burst-Hold/Suzuka-Burst-Hold-v1.0.0/Suzuka‘s Burst Hold v1.0.0.zip",
+    "sha256": "cd048c41e22645090a7ef043c1ca1d7aee541ce4421577fff931742331fee1d9"
+  },
+  {
+    "component": "Pistols",
+    "source": "Pistol-Normal-Crosshair/Tongz-Senator-Talon-Laser-Handling-v1.1.0-preview1.zip",
+    "sha256": "b814d0ab1d2860a5d9f8a2435df524769633313718a04a63cff75f098004c9e2"
+  }
+]
