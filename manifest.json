@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "Guid": "24dc64cc-ec1c-4fe7-b3d7-e9bf5e6b3089",
+  "Name": "Suzuka’s Better Shooting v1.0.0",
+  "Description": "Charge / burst / semi hold, APW-1 crosshair, Senator + Talon lasers and optional handling boosts. Requires BSL API 1.",
+  "Options": [
+    {
+      "Name": "自动满蓄力循环＋各武器开关",
+      "Description": "Requires Bingus Shared Loader API 1.",
+      "Include": [
+        "options/Charge"
+      ]
+    },
+    {
+      "Name": "按住持续三连发",
+      "Description": "Requires Bingus Shared Loader API 1.",
+      "Include": [
+        "options/Burst"
+      ]
+    },
+    {
+      "Name": "准星开关＋参议员／猛爪激光与操控",
+      "Description": "Requires Bingus Shared Loader API 1.",
+      "Include": [
+        "options/Pistols"
+      ]
+    },
+    {
+      "Name": "半自动按住连点",
+      "Description": "Native single-fire repeat; charged weapons excluded.",
+      "Include": [
+        "options/Semi"
+      ]
+    }
+  ]
+}
